@@ -23,9 +23,15 @@
 #define IDS_FXCONTENT47                 116
 #define IDS_FXINSTRUCTION47             117
 #define IDS_FXDOWNLOADURL47             118
+#define IDS_FXVERSION48                 119
+#define IDS_FXEXPANDEDINFO48            120
 #define IDR_MAINFRAME                   128
 #define IDR_UPDATE_ZIP                  131
 #define IDR_FX_VERSION_FLAG             132
+#define IDS_FXCONTENT48                 135
+#define IDS_FXINSTRUCTION48             136
+#define IDS_FXDOWNLOADURL48             137
+#define IDC_STATIC                      -1
 
 // Next default values for new objects
 // 
